@@ -1,0 +1,23 @@
+{
+  "name": "dairy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaiwenxin1/dairy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaiwenxin1/dairy/issues"
+  },
+  "homepage": "https://github.com/chaiwenxin1/dairy#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
